@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Shavinkar-SKR
+# 👋 Hi there, I'm Shavinkar Ravichandran
 
-## About Me
-I am a passionate developer with a keen interest in software development and open-source contributions. I enjoy learning new technologies and continuously improving my skills.
+I am Shavinkar from Sri Lanka and an enthusiastic and driven individual currently pursuing my degree in Software Engineering at IIT.
+
+💻 I have a strong passion for full-stack development and continuously enhance my skills. My curiosity and dedication push me to explore new technologies and tackle challenging problems.
 
 [![Shavinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR)](https://github.com/Shavinkar-SKR/github-readme-stats)
 
 ## Skills
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Express, Spring Boot
-- **Tools**: Git, Docker, Kubernetes, Jenkins
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Languages**: Python, Java, JavaScript, C, C#
+- **Frameworks**: React, Node.js, Express, Angular, Spring Boot
+- **Tools**: Git
+- **Databases**: PostgreSQL, MongoDB
 
 ## Projects
 Here are some of the projects I have worked on:
