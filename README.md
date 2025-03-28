@@ -12,20 +12,6 @@ I am Shavinkar from Sri Lanka and an enthusiastic and driven individual currentl
 - **Tools**: Git
 - **Databases**: PostgreSQL, MongoDB
 
-## Projects
-Here are some of the projects I have worked on:
-
-1. **Project Name**: Description of the project.
-2. **Project Name**: Description of the project.
-3. **Project Name**: Description of the project.
-
-## Contributions
-I actively contribute to open-source projects. Here are some of my contributions:
-
-- **Repository Name**: Description of the contribution.
-- **Repository Name**: Description of the contribution.
-- **Repository Name**: Description of the contribution.
-
 ## Contact Me
 - **Email**: shavinkar@example.com
 - **LinkedIn**: [Shavinkar-SKR](https://www.linkedin.com/in/shavinkar-skr/)
