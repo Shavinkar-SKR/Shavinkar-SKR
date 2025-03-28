@@ -3,6 +3,8 @@
 ## About Me
 I am a passionate developer with a keen interest in software development and open-source contributions. I enjoy learning new technologies and continuously improving my skills.
 
+[![Shavinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR)](https://github.com/Shavinkar-SKR/github-readme-stats)
+
 ## Skills
 - **Languages**: JavaScript, Python, Java, C++
 - **Frameworks**: React, Node.js, Express, Spring Boot
