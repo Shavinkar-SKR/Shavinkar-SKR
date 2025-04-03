@@ -16,3 +16,4 @@ I am Shavinkar from Sri Lanka and an enthusiastic and driven individual currentl
 - **Twitter**: [@ShavinkarSKR](https://twitter.com/ShavinkarSKR)
 
 Feel free to reach out to me for any collaboration or just to say hi! 😊
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shavinkar-SKR&repo=EventTicketingSystem&theme=ambient_gradient)
