@@ -2,8 +2,8 @@
 
 I am Shavinkar from Sri Lanka and an enthusiastic and driven individual currently pursuing my degree in Software Engineering at 🎓IIT. 💻 I have a strong passion for 🌐full-stack development and continuously enhance my skills🎲. ☺️My curiosity and dedication push me to explore new 🧑‍💻technologies and tackle challenging problems. When I'm not crushing 🐞bugs or building dreams, I can be found watching movies🎥🍿📽️, playing chess♟️, flexing muscles💪🏋️‍♂️, and hanging out🪂.
 
-[![Shavinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR)](https://github.com/Shavinkar-SKR/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR&show_icons=true&theme=dark)
+[![Shavinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR&show_icons=true)](https://github.com/Shavinkar-SKR/github-readme-stats)
+
 ## Skills
 - **Languages**: Python, Java, JavaScript, C, C#
 - **Frameworks**: React, Node.js, Express, Angular, Spring Boot
