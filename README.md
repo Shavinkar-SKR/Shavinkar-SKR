@@ -17,14 +17,14 @@ I am Shavinkar from Sri Lanka and an enthusiastic and driven individual currentl
 
 ## 📊 Github Stats
 
-[![Shavinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR&show_icons=true&theme=midnight-purple)](https://github.com/Shavinkar-SKR/github-readme-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavinkar-SKR&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shavinkar-SKR&theme=midnight-purple&hide_border=false)
+[![Shavinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR&show_icons=true&theme=blue-green)](https://github.com/Shavinkar-SKR/github-readme-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavinkar-SKR&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shavinkar-SKR&theme=blue-green&hide_border=false)
 
 <hr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shavinkar-SKR&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Shavinkar-SKR&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Shavinkar-SKR&icon=6&color=8)](https://visitcount.itsvg.in)
 
