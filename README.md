@@ -19,7 +19,7 @@ I am Shavinkar from Sri Lanka and an enthusiastic and driven individual currentl
 
 [![Shavinkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR&show_icons=true&theme=blue-green)](https://github.com/Shavinkar-SKR/github-readme-stats)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shavinkar-SKR&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavinkar-SKR&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavinkar-SKR&show_icons=true&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <hr>
 
