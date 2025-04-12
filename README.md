@@ -35,7 +35,7 @@ Feel free to reach out to me for any collaboration... 😊
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shavinkar-SKR&theme=blue-green&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shavinkar-SKR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shavinkar-SKR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
